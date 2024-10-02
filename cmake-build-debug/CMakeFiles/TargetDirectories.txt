@@ -1,0 +1,12 @@
+/home/morgen/CLionProjects/c11_thread/cmake-build-debug/CMakeFiles/c11_thread1.dir
+/home/morgen/CLionProjects/c11_thread/cmake-build-debug/CMakeFiles/c11_thread2.dir
+/home/morgen/CLionProjects/c11_thread/cmake-build-debug/CMakeFiles/c11_thread3.dir
+/home/morgen/CLionProjects/c11_thread/cmake-build-debug/CMakeFiles/c11_thread4.dir
+/home/morgen/CLionProjects/c11_thread/cmake-build-debug/CMakeFiles/c11_thread5.dir
+/home/morgen/CLionProjects/c11_thread/cmake-build-debug/CMakeFiles/c11_thread6.dir
+/home/morgen/CLionProjects/c11_thread/cmake-build-debug/CMakeFiles/c11_thread7.dir
+/home/morgen/CLionProjects/c11_thread/cmake-build-debug/CMakeFiles/c11_thread8.dir
+/home/morgen/CLionProjects/c11_thread/cmake-build-debug/CMakeFiles/c11_thread9.dir
+/home/morgen/CLionProjects/c11_thread/cmake-build-debug/CMakeFiles/c11_thread10.dir
+/home/morgen/CLionProjects/c11_thread/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/morgen/CLionProjects/c11_thread/cmake-build-debug/CMakeFiles/rebuild_cache.dir

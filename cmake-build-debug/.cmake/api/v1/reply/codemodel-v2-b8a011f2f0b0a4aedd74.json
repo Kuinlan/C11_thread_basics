@@ -1,0 +1,141 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "c11_thread",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "c11_thread1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c11_thread1-Debug-6c8a0e1ff96650558005.json",
+					"name" : "c11_thread1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "c11_thread10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c11_thread10-Debug-142e90839beca325ae93.json",
+					"name" : "c11_thread10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "c11_thread2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c11_thread2-Debug-7cba288d88f6041d21b9.json",
+					"name" : "c11_thread2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "c11_thread3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c11_thread3-Debug-e32df7d00ea29a5258e1.json",
+					"name" : "c11_thread3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "c11_thread4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c11_thread4-Debug-d808c8e29a27414530f0.json",
+					"name" : "c11_thread4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "c11_thread5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c11_thread5-Debug-156173a5df24771e1745.json",
+					"name" : "c11_thread5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "c11_thread6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c11_thread6-Debug-724370670b24e107a8f5.json",
+					"name" : "c11_thread6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "c11_thread7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c11_thread7-Debug-fcc6021541776915f764.json",
+					"name" : "c11_thread7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "c11_thread8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c11_thread8-Debug-4bafe6c45ecf7e826ae4.json",
+					"name" : "c11_thread8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "c11_thread9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-c11_thread9-Debug-0cf8fdac87342ac2402f.json",
+					"name" : "c11_thread9",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/morgen/CLionProjects/c11_thread/cmake-build-debug",
+		"source" : "/home/morgen/CLionProjects/c11_thread"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
